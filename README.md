@@ -1,8 +1,8 @@
 # 📘 SQL Notes & 100 Most Asked Interview Questions
 
-This repository contains **well-structured SQL notes** along with **100 frequently asked SQL interview questions**, designed for beginners to intermediate learners, students, and job aspirants.
+This repository contains **well-structured SQL notes** along with **100 frequently asked SQL interview questions**, designed for **beginners to intermediate learners**, college students, and job aspirants.
 
-Whether you are preparing for **placements, internships, hackathons, or interviews**, this resource aims to give you **conceptual clarity + practical confidence**.
+Whether you’re preparing for **placements, internships, hackathons, competitive programming, or technical interviews**, this resource focuses on **conceptual clarity + practical confidence**.
 
 ---
 
@@ -23,52 +23,56 @@ Whether you are preparing for **placements, internships, hackathons, or intervie
 ├── SQL_100_Interview_Questions.md
 └── README.md
 
-yaml
-Copy code
 
 ---
 
 ## 📌 What’s Included
 
-### ✅ SQL Notes
-- Basics of SQL and Databases  
-- Table creation and schema design  
-- Data types and constraints  
+### ✅ SQL Notes (Beginner → Intermediate)
+
+- Basics of SQL & relational databases  
+- Database design & table creation  
+- SQL data types & constraints  
 - CRUD operations (INSERT, SELECT, UPDATE, DELETE)  
 - Joins (INNER, LEFT, RIGHT, FULL)  
-- Subqueries & Nested Queries  
-- Aggregate & Scalar Functions  
-- Indexes, Views, and Stored Concepts  
-- Normalization (1NF, 2NF, 3NF)  
-- Best practices and examples  
+- Subqueries & nested queries  
+- Aggregate & scalar functions  
+- Indexes, views & stored concepts  
+- Database normalization (1NF, 2NF, 3NF)  
+- Best practices with real-world examples  
+
+---
 
 ### ✅ 100 Most Asked SQL Interview Questions
+
 - Conceptual questions  
-- Query-based questions  
-- Output-based problems  
-- Scenario-based questions  
+- Query-based problems  
+- Output-based questions  
+- Scenario & case-study questions  
 - Common mistakes & edge cases  
 
-Each question is **interview-oriented** and focuses on real-world SQL usage.
+Each question is **interview-oriented** and based on **real-world SQL usage** commonly asked in tech interviews.
 
 ---
 
 ## 🎯 Who Is This For?
 
-- 📚 College students  
-- 💻 Beginners learning SQL  
-- 🎓 Placement & internship aspirants  
-- 🧠 Hackathon participants  
-- 🔁 Anyone revising SQL quickly  
+📚 College students  
+💻 Beginners learning SQL  
+🎓 Placement & internship aspirants  
+🧠 Hackathon participants  
+🔁 Anyone revising SQL quickly  
+👨‍💻 Developers brushing up fundamentals  
 
 ---
 
-## 🚀 How to Use
+## 🚀 How to Use This Repository
 
-1. Start with the **SQL Notes** folder for theory.
-2. Practice queries alongside each topic.
-3. Move to **SQL_100_Interview_Questions.md** for revision.
-4. Try writing answers before checking solutions.
+1. Start with the **`SQL_Notes/`** folder to build strong fundamentals  
+2. Practice SQL queries side-by-side with each topic  
+3. Move to **`SQL_100_Interview_Questions.md`** for revision  
+4. Try solving questions **before** checking answers  
+5. Revise joins, subqueries, and normalization before interviews  
 
 ---
 
@@ -78,27 +82,41 @@ Each question is **interview-oriented** and focuses on real-world SQL usage.
 - PostgreSQL  
 - SQLite  
 - SQL Server  
-- Online editors like SQL Fiddle / DB Fiddle  
+- Online editors:
+  - SQL Fiddle  
+  - DB Fiddle  
 
 ---
 
-## 📌 Contribution
+## 📌 Contribution Guidelines
 
-Feel free to:
-- Improve explanations  
-- Add more interview questions  
-- Optimize queries  
-- Fix typos or formatting  
+Contributions are welcome 🙌  
+You can help by:
 
-Pull requests are welcome 🙌
+- Improving explanations  
+- Adding more interview questions  
+- Optimizing SQL queries  
+- Fixing typos or formatting  
+- Adding diagrams or examples  
+
+Feel free to open issues or submit pull requests.
 
 ---
 
-## ⭐ Support
+## ⭐ Support & Feedback
 
-If you found this useful:
-- ⭐ Star the repository  
-- 🔗 Share with friends  
-- 💬 Give feedback  
+If you found this repository helpful:
 
-Happy Querying! 🚀
+⭐ Star the repository  
+🔗 Share it with friends  
+💬 Provide feedback or suggestions  
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
+
+---
+
+### 💡 Happy Querying & Best of Luck for Your Interviews! 🚀
